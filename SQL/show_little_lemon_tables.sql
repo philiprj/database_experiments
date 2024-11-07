@@ -1,0 +1,2 @@
+USE LittleLemon;
+SHOW TABLES;
